@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable oh_nopic
+id button1
+id cardView
+id cardView2
+id editText1
+id imageView
+id message
+id send
+id subject
+id textInputLayout2
+id textInputLayout3
+id textview
+id textview1
+id to
+layout activity_constraint_layout
+layout activity_linear_layout
+layout activity_main
+layout activity_relative_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Coba_layout
+xml backup_rules
+xml data_extraction_rules
